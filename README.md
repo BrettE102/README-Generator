@@ -1,5 +1,5 @@
 
-  # title
+  # Readme Generator
 
   ## License: MIT ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   ### https://github.com/Naereen/StrapDown.js/blob/master/LICENSE
@@ -14,19 +14,19 @@
 
   ## Installation:
   ### The following is required to run this app:
-  ### 4
+  ### 
 
   ## Usage:
-  ### 3
+  ### Use case for this is to hopefully save develpoers time to work on more important problems.
 
   ## Contributers:
-  ### 6
+  ### 
 
   ## Tests: 
-  ### 5
+  ### 
 
   ## Questions:
   ### If you have any questions, feel free to reach out at
-  ### Email: 7
+  ### Email: Brette102@gmail.com
   ### or 
-  ### Github: 8
+  ### Github: BrettE102
